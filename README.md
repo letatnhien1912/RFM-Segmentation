@@ -22,4 +22,4 @@ includes 6 tables:
 
 ---
 ### Result
-<img src="RFM Segmentation.png" alt="RFM Segmentation" width="300"/>
+<img src="RFM Segmentation.png" alt="RFM Segmentation" width="600"/>
