@@ -8,6 +8,8 @@ and the company wants to segment the customers of Telco Card for the next market
 
 **User segmentation** is the process of separating users into distinct groups, or segments, based on shared characteristics. A company might segment users based on language preferences, product version, geographical region, or user persona. With thoughtful user segmentation, product teams can study how user behaviors vary between segments, then design personalized experiences for each segment.
 
+**RFM segmentation** allows marketers to target specific clusters of customers with communications that are much more relevant for their particular behavior – and thus generate much higher rates of response, plus increased loyalty and customer lifetime value. Like other segmentation methods, RFM segmentation is a powerful way to identify groups of customers for special treatment. RFM stands for recency, frequency and monetary – more about each of these shortly.
+
 ---
 ### Dataset Description
 **Paytm** is an Indian multinational financial technology company. It specializes in digital payment system, e-commerce and financial services. Paytm wallet is a secure and RBI (Reserve Bank of India)- approved digital/mobile wallet that provides a myriad of financial features to fulfill every consumer’s payment needs. Paytm wallet can be topped up through UPI (Unified Payments Interface), internet banking, or credit/debit cards. Users can also transfer money from a Paytm wallet to recipient’s bank account or their own Paytm wallet.
