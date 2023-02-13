@@ -33,7 +33,7 @@ Here are the different customer segments typically used in RFM analysis:
 1. **Almost lost**: These are the customers who have not made a purchase in a relatively short period of time, but have a high frequency of purchases and have spent a lot of money. They are at risk of becoming lost customers and should be targeted with retention efforts.
 1. **Loyal customers**: These are the customers who have made a purchase recently, have a high frequency of purchases, and have spent a lot of money. They are valuable customers and should be prioritized in marketing and retention efforts.
 1. **Big Spender**: These are the customers who have made a purchase recently, but have a low frequency of purchases and have spent a lot of money. They should be targeted with upselling and cross-selling efforts to increase their value.
-1 **New customers**: These are the customers who have made their first purchase recently. They should be targeted with welcome and loyalty programs to encourage repeat business.
+1. **New customers**: These are the customers who have made their first purchase recently. They should be targeted with welcome and loyalty programs to encourage repeat business.
 1. **Hibernating**: These are the customers who have not made a purchase in a long time, but have made a high frequency of purchases and have spent a lot of money in the past. They should be targeted with win-back campaigns to try to re-engage them.
 1. **Potential Loyalist**: These are the customers who have made a purchase recently, have a low frequency of purchases, but have spent a lot of money. They should be targeted with loyalty programs to encourage repeat business and increase their value.
 
