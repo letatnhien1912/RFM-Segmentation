@@ -25,3 +25,16 @@ includes 6 tables:
 ---
 ### Result
 <img src="RFM Segmentation.png" alt="RFM Segmentation" width="600"/>
+
+Here are the different customer segments typically used in RFM analysis:
+1. Best customers: These are the customers who have made the most recent purchase, have a high frequency of purchases, and have spent a lot of money. They are the most valuable customers and should be prioritized in marketing and retention efforts.
+1. Lost Bad customers: These are the customers who have not made a purchase in a long time, have a low frequency of purchases, and have spent very little money. They are not valuable customers and should be removed from the marketing database.
+1. Lost customers: These are the customers who have not made a purchase in a long time, but were previously valuable customers. They should be targeted with win-back campaigns to try to re-engage them.
+1. Almost lost: These are the customers who have not made a purchase in a relatively short period of time, but have a high frequency of purchases and have spent a lot of money. They are at risk of becoming lost customers and should be targeted with retention efforts.
+1. Loyal customers: These are the customers who have made a purchase recently, have a high frequency of purchases, and have spent a lot of money. They are valuable customers and should be prioritized in marketing and retention efforts.
+1. Big Spender: These are the customers who have made a purchase recently, but have a low frequency of purchases and have spent a lot of money. They should be targeted with upselling and cross-selling efforts to increase their value.
+1 New customers: These are the customers who have made their first purchase recently. They should be targeted with welcome and loyalty programs to encourage repeat business.
+1. Hibernating: These are the customers who have not made a purchase in a long time, but have made a high frequency of purchases and have spent a lot of money in the past. They should be targeted with win-back campaigns to try to re-engage them.
+1. Potential Loyalist: These are the customers who have made a purchase recently, have a low frequency of purchases, but have spent a lot of money. They should be targeted with loyalty programs to encourage repeat business and increase their value.
+
+By understanding the different customer segments in RFM analysis, businesses can target their marketing and retention efforts more effectively, leading to increased customer loyalty and lifetime value.
